@@ -576,5 +576,3 @@ Repositoryda alohida `LICENSE` fayli mavjud bo'lmasa, kodni ommaviy ko'rish unin
 **Haipeng CRM · Savdo va ishlab chiqarish boshqaruv platformasi**
 
 **[MyWeb](https://myweb.uz) × [Nyrosoft](https://nyrosoft.uz) · Hayotbek Ismoilov**
-#   H a i p e n g - U z  
- 
