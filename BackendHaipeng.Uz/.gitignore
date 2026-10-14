@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local database and runtime uploads
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+routers/uploads/
+uploads/
+media/
+
+# Logs, IDE and OS files
+*.log
+*.err
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
